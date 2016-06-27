@@ -1,0 +1,52 @@
+{
+  "name": "linter-spell-latex",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "Provider for Atom linter-spell package to enable LaTeX spell checking.",
+  "keywords": [
+    "tex",
+    "latex",
+    "lint",
+    "linter",
+    "spellcheck",
+    "spelling"
+  ],
+  "activationCommands": [],
+  "repository": "https://github.com/yitzchak/linter-spell-latex",
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/yitzchak/linter-spell-latex/issues"
+  },
+  "dependencies": {
+  },
+  "package-deps": [
+    "linter-spell"
+  ],
+  "standard": {
+    "parser": "babel-eslint",
+    "globals": [
+      "atom",
+      "latex",
+      "afterEach",
+      "beforeEach",
+      "describe",
+      "expect",
+      "it",
+      "jasmine",
+      "runs",
+      "spyOn",
+      "waitsFor",
+      "waitsForPromise"
+    ]
+  },
+  "providedServices": {
+    "linter-spell-grammar": {
+      "versions": {
+        "1.0.0": "provideGrammar"
+      }
+    }
+  }
+}
