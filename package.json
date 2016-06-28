@@ -11,7 +11,7 @@
     "spellcheck",
     "spelling"
   ],
-  "activationCommands": [],
+  "activationHooks": ["language-latex:grammar-used"],
   "repository": "https://github.com/yitzchak/linter-spell-latex",
   "license": "MIT",
   "engines": {
