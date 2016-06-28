@@ -33,9 +33,6 @@ addons:
     - hunspell
     - hunspell-en-us
 
-before_install:
-  - script/travis-ci-before-install.sh
-
 branches:
   only:
     - master
