@@ -1,7 +1,7 @@
 {
   "name": "linter-spell-latex",
   "main": "./lib/main",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Provider for Atom linter-spell package to enable LaTeX spell checking.",
   "keywords": [
     "tex",
