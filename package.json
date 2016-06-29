@@ -3,6 +3,7 @@
   "main": "./lib/main",
   "version": "0.2.2",
   "description": "Provider for Atom linter-spell package to enable LaTeX spell checking.",
+  "author": "Tarn Burton <twburton@gmail.com>",
   "keywords": [
     "tex",
     "latex",
