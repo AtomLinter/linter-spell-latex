@@ -20,7 +20,8 @@
     "url": "https://github.com/yitzchak/linter-spell-latex/issues"
   },
   "dependencies": {
-    "lodash": "*"
+    "lodash": "*",
+    "atom-package-deps": "*"
   },
   "package-deps": [
     "linter-spell"
