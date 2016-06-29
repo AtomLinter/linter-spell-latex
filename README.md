@@ -1,4 +1,4 @@
-# linter-spell-latex [![Travis-CI Build Status](https://img.shields.io/travis/yitzchak/linter-spell-latex/master.svg?label=Linux/OSX%20build)](https://travis-ci.org/yitzchak/linter-spell-latex) [![AppVeyor Build Status](https://img.shields.io/appveyor/ci/yitzchak/linter-spell-latex/master.svg?label=Windows%20build)](https://ci.appveyor.com/project/yitzchak/linter-spell-latex)
+# linter-spell-latex [![Travis-CI Build Status](https://img.shields.io/travis/yitzchak/linter-spell-latex/master.svg?label=Linux/OSX%20build)](https://travis-ci.org/yitzchak/linter-spell-latex) [![AppVeyor Build Status](https://img.shields.io/appveyor/ci/yitzchak/linter-spell-latex/master.svg?label=Windows%20build)](https://ci.appveyor.com/project/yitzchak/linter-spell-latex) [![David](https://img.shields.io/david/yitzchak/linter-spell-latex.svg)](https://david-dm.org/yitzchak/linter-spell-latex.svg)
 
 Provider for Atom [linter-spell](https://atom.io/packages/linter-spell) package
 to enable LaTeX spell checking.
