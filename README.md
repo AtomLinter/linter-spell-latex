@@ -19,6 +19,11 @@ The package has support for the following TeX Magic comment
 
 *   `%!TEX spellcheck = en_US,en_DE` Select dictionaries
 
+## Configuration
+
+Additional ignored single argument commands like `\usepackage[foo]{bar}` or
+ignored environments can be added in the package's settings page.
+
 ## Status
 
 Please note that this package is in a **alpha** state.

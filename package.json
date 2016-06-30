@@ -29,17 +29,52 @@
   ],
   "configSchema": {
     "ignoredArgumentCommands": {
-      "title": "Additional Ignored Argument Commands",
+      "title": "Ignored Argument Commands",
       "description": "Commands that have a single required argument and one optional argument in which the arguments are ignored.",
       "type": "array",
-      "default": [],
+      "items": {
+        "type": "string"
+      },
+      "default": [
+        "addtocounter",
+        "begin",
+        "bibitem",
+        "bibliography",
+        "bibliographystyle",
+        "cite",
+        "documentclass",
+        "end",
+        "ensuremath",
+        "label",
+        "newenvironment",
+        "newtheorem",
+        "pageref",
+        "ref",
+        "refstepcounter",
+        "renewenvironment",
+        "setcounter",
+        "stepcounter",
+        "thispagestyle",
+        "usecounter",
+        "usepackage",
+        "value",
+        "vspace"
+      ],
       "order": 1
     },
     "ignoredEnvironments": {
-      "title": "Additional Ignored Environments",
+      "title": "Ignored Environments",
       "description": "Environments in which to ignore the contents.",
       "type": "array",
-      "default": [],
+      "items": {
+        "type": "string"
+      },
+      "default": [
+        "displaymath",
+        "equation",
+        "equation*",
+        "filecontents"
+      ],
       "order": 1
     }
   },

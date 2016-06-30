@@ -17,7 +17,7 @@ describe('The linter-spell-latex provider for Atom Linter', () => {
     waitsForPromise(() => {
       return atom.workspace.open(path.join(__dirname, 'files', 'foo.tex')).then(editor => {
         expect(_.isEqual(
-          [new Range([1, 0], [1, 14]), new Range([3, 0], [3, 6]), new Range([24, 0], [24, 4])],
+          [new Range([0, 0], [0, 24]), new Range([1, 0], [1, 23]), new Range([3, 0], [3, 16]), new Range([24, 0], [24, 14])],
           grammar.getRanges(editor, [editor.getBuffer().getRange()]).ignoredRanges)).toBe(true, 'Matching ranges')
       })
     })
