@@ -12,7 +12,7 @@
 
 *   Fix `lodash` version bug
 
-## 0.3.0 - Improve
+## 0.3.0 - Improve Patterns
 
 *   Ignore inline and display math regions.
 

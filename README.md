@@ -26,4 +26,4 @@ ignored environments can be added in the package's settings page.
 
 ## Status
 
-Please note that this package is in a **alpha** state.
+Please note that this package is in an **alpha** state.
