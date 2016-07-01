@@ -1,16 +1,9 @@
 # Change Log
 
-## 0.1.0 - First Release
+## 0.4.0 - Scope Based Matching
 
-*   Basic scanning to remove backslash commands from spellchecking
-
-## 0.2.0 - Second Release
-
-*   Added automatic dependencies installation
-
-## 0.2.2 - Bug fix
-
-*   Fix `lodash` version bug
+*   Add matching based on scopes
+*   Remove settings
 
 ## 0.3.0 - Improve Patterns
 
@@ -23,3 +16,15 @@
 
 *   Add ignored environments like `equation` and configuration settings to
     control.
+
+## 0.2.2 - Bug fix
+
+*   Fix `lodash` version bug
+
+## 0.2.0 - Second Release
+
+*   Added automatic dependencies installation
+
+## 0.1.0 - First Release
+
+*   Basic scanning to remove backslash commands from spellchecking
