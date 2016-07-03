@@ -1,11 +1,15 @@
 # Change Log
 
-## 0.4.0 - Scope Based Matching
+## 0.5.0
+
+*   Add BibTeX support
+
+## 0.4.0
 
 *   Add matching based on scopes
 *   Remove settings
 
-## 0.3.0 - Improve Patterns
+## 0.3.0
 
 *   Ignore inline and display math regions.
 
@@ -17,14 +21,14 @@
 *   Add ignored environments like `equation` and configuration settings to
     control.
 
-## 0.2.2 - Bug fix
+## 0.2.2
 
 *   Fix `lodash` version bug
 
-## 0.2.0 - Second Release
+## 0.2.0
 
 *   Added automatic dependencies installation
 
-## 0.1.0 - First Release
+## 0.1.0
 
 *   Basic scanning to remove backslash commands from spellchecking
