@@ -3,6 +3,7 @@
 ## 0.5.0
 
 *   Add BibTeX support
+*   Updated to hierarchical scoping
 
 ## 0.4.0
 
