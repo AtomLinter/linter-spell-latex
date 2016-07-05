@@ -2,7 +2,7 @@
   "name": "linter-spell-latex",
   "main": "./lib/main",
   "version": "0.5.0",
-  "description": "Provider for Atom linter-spell package to enable LaTeX spell checking.",
+  "description": "LaTeX, TeX and BibTeX spell checking using linter-spell.",
   "author": "Tarn Burton <twburton@gmail.com>",
   "keywords": [
     "tex",
@@ -10,7 +10,8 @@
     "lint",
     "linter",
     "spellcheck",
-    "spelling"
+    "spelling",
+    "linter-spell"
   ],
   "repository": "https://github.com/yitzchak/linter-spell-latex",
   "license": "MIT",
