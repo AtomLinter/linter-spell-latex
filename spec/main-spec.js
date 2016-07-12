@@ -26,7 +26,7 @@ describe('The linter-spell-latex provider for Atom Linter', () => {
   it('finds spellcheck TeX magic in "foo.tex"', () => {
     waitsForPromise(() => {
       return atom.workspace.open(path.join(__dirname, 'files', 'foo.tex')).then(editor => {
-        expect(_.isEqual(grammar.getDictionaries(editor), ['en-US'])).toBe(true, 'en-US language')
+        expect(_.isEqual(grammar.findLanguageTags(editor), ['en-US'])).toBe(true, 'en-US language')
       })
     })
   })
