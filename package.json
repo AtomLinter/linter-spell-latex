@@ -9,8 +9,7 @@
     "latex",
     "lint",
     "linter",
-    "spellcheck",
-    "spelling",
+    "spell-check",
     "linter-spell"
   ],
   "repository": "https://github.com/yitzchak/linter-spell-latex",
