@@ -1,5 +1,8 @@
 # Change Log
 
+## [v0.6.2](https://github.com/yitzchak/linter-spell-latex/tree/v0.6.2) (2016-07-17)
+[Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.6.1...v0.6.2)
+
 ## [v0.6.1](https://github.com/yitzchak/linter-spell-latex/tree/v0.6.1) (2016-07-17)
 [Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.6.0...v0.6.1)
 
