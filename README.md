@@ -20,7 +20,7 @@ and either [language-tex](https://atom.io/packages/language-tex) (preferred) or
 
 The package has support for the following TeX Magic comment
 
-*   `%!TEX spellcheck = en_US,en_DE` Select dictionaries
+*   `%!TeX spellcheck = en-US,en-DE` Select languages
 
 ## Status
 
