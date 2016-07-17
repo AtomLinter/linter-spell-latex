@@ -13,7 +13,8 @@ Use the Atom package manager and search for "linter-spell-latex", or run
 ## Prerequisites
 
 This package relies upon [linter-spell](https://atom.io/packages/linter-spell)
-and it must therefore be installed.
+and either [language-tex](https://atom.io/packages/language-tex) (preferred) or
+[language-latex](https://atom.io/packages/language-latex).
 
 ## Magic comments
 
@@ -23,4 +24,4 @@ The package has support for the following TeX Magic comment
 
 ## Status
 
-Please note that this package is in an **alpha** state.
+Please note that this package is in an **beta** state.

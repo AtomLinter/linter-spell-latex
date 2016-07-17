@@ -7,10 +7,8 @@
   "keywords": [
     "tex",
     "latex",
-    "lint",
     "linter",
-    "spellcheck",
-    "spelling",
+    "spell-check",
     "linter-spell"
   ],
   "repository": "https://github.com/yitzchak/linter-spell-latex",
@@ -26,8 +24,7 @@
     "atom-package-deps": "^4.0.0"
   },
   "package-deps": [
-    "linter-spell",
-    "language-latex"
+    "linter-spell"
   ],
   "standard": {
     "parser": "babel-eslint",
