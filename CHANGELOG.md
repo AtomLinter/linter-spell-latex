@@ -1,5 +1,12 @@
 # Change Log
 
+## [0.7.0](https://github.com/yitzchak/linter-spell-latex/tree/0.7.0) (2016-07-28)
+[Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.6.2...0.7.0)
+
+**Implemented enhancements:**
+
+- Improve checked scopes [\#7](https://github.com/yitzchak/linter-spell-latex/issues/7)
+
 ## [v0.6.2](https://github.com/yitzchak/linter-spell-latex/tree/v0.6.2) (2016-07-17)
 [Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.6.1...v0.6.2)
 
