@@ -29,6 +29,10 @@
   "package-deps": [
     "linter-spell"
   ],
+  "activationHooks": [
+    "language-latex:grammar-used",
+    "language-tex:grammar-used"
+  ],
   "standard": {
     "parser": "babel-eslint",
     "globals": [
