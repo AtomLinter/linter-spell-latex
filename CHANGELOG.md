@@ -1,7 +1,14 @@
 # Change Log
 
-## [0.7.0](https://github.com/yitzchak/linter-spell-latex/tree/0.7.0) (2016-07-28)
-[Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.6.2...0.7.0)
+## [v0.7.1](https://github.com/yitzchak/linter-spell-latex/tree/v0.7.1) (2016-08-01)
+[Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.7.0...v0.7.1)
+
+**Fixed bugs:**
+
+- Don't spell check citation keys [\#8](https://github.com/yitzchak/linter-spell-latex/issues/8)
+
+## [v0.7.0](https://github.com/yitzchak/linter-spell-latex/tree/v0.7.0) (2016-07-28)
+[Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.6.2...v0.7.0)
 
 **Implemented enhancements:**
 
