@@ -1,7 +1,7 @@
 {
   "name": "linter-spell-latex",
   "main": "./lib/main",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "LaTeX, TeX and BibTeX spell checking using linter-spell.",
   "author": "Tarn Burton <twburton@gmail.com>",
   "keywords": [
