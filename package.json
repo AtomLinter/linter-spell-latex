@@ -56,5 +56,14 @@
         "1.0.0": "provideGrammar"
       }
     }
+  },
+  "configSchema": {
+    "checkComments": {
+      "title": "Check Comments",
+      "description": "Spell check in LaTeX, TeX and BibTeX comments.",
+      "type": "boolean",
+      "default": true,
+      "order": 1
+    }
   }
 }
