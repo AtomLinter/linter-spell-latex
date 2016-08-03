@@ -1,5 +1,12 @@
 # Change Log
 
+## [0.8.0](https://github.com/yitzchak/linter-spell-latex/tree/0.8.0) (2016-08-03)
+[Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.7.1...0.8.0)
+
+**Implemented enhancements:**
+
+- Spell checking of comments [\#9](https://github.com/yitzchak/linter-spell-latex/issues/9)
+
 ## [v0.7.1](https://github.com/yitzchak/linter-spell-latex/tree/v0.7.1) (2016-08-01)
 [Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.7.0...v0.7.1)
 
