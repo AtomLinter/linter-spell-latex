@@ -21,7 +21,8 @@
   },
   "dependencies": {
     "lodash": "^4.13.0",
-    "atom-package-deps": "^4.0.0"
+    "atom-package-deps": "^4.0.0",
+    "linter-spell-word-list": "^0.3.1"
   },
   "devDependecies": {
     "semver": "^5.3.0"
@@ -55,6 +56,11 @@
       "versions": {
         "1.0.0": "provideGrammar"
       }
+    },
+    "linter-spell-dictionary": {
+      "versions": {
+        "1.0.0": "provideDictionary"
+      }
     }
   },
   "configSchema": {
@@ -64,6 +70,13 @@
       "type": "boolean",
       "default": true,
       "order": 1
+    },
+    "latexWords": {
+      "title": "TeX, LaTeX and BibTeX Words",
+      "description": "TeX, LaTeX and BibTeX specific word list. Precede word with '!' to make word case sensitive.",
+      "type": "array",
+      "default": [],
+      "order": 2
     }
   }
 }
