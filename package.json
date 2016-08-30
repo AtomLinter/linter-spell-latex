@@ -65,13 +65,12 @@
   },
   "configSchema": {
     "checkComments": {
-      "title": "Check Comments",
       "description": "Spell check in LaTeX, TeX and BibTeX comments.",
       "type": "boolean",
       "default": true,
       "order": 1
     },
-    "latexWords": {
+    "words": {
       "title": "TeX, LaTeX and BibTeX Words",
       "description": "TeX, LaTeX and BibTeX specific word list. Precede word with '!' to make word case sensitive.",
       "type": "array",
