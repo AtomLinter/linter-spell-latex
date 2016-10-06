@@ -13,8 +13,7 @@ Use the Atom package manager and search for "linter-spell-latex", or run
 ## Prerequisites
 
 This package relies upon [linter-spell](https://atom.io/packages/linter-spell)
-and either [language-tex](https://atom.io/packages/language-tex) (preferred) or
-[language-latex](https://atom.io/packages/language-latex).
+and [language-latex](https://atom.io/packages/language-latex).
 
 ## Magic comments
 
