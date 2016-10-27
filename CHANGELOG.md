@@ -1,7 +1,15 @@
 # Change Log
 
-## [0.8.0](https://github.com/yitzchak/linter-spell-latex/tree/0.8.0) (2016-08-03)
-[Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.7.1...0.8.0)
+## [0.9.0](https://github.com/yitzchak/linter-spell-latex/tree/0.9.0) (2016-09-03)
+[Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.8.0...0.9.0)
+
+**Implemented enhancements:**
+
+- Implement grammar specific dictionary [\#11](https://github.com/yitzchak/linter-spell-latex/issues/11)
+- Ignore LaTeX key-words [\#10](https://github.com/yitzchak/linter-spell-latex/issues/10)
+
+## [v0.8.0](https://github.com/yitzchak/linter-spell-latex/tree/v0.8.0) (2016-08-03)
+[Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.7.1...v0.8.0)
 
 **Implemented enhancements:**
 
