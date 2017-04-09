@@ -1,7 +1,7 @@
 {
   "name": "linter-spell-latex",
   "main": "./lib/main",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "LaTeX, TeX and BibTeX spell checking using linter-spell.",
   "author": "Tarn Burton <twburton@gmail.com>",
   "keywords": [
@@ -11,13 +11,13 @@
     "spell-check",
     "linter-spell"
   ],
-  "repository": "https://github.com/yitzchak/linter-spell-latex",
+  "repository": "https://github.com/AtomLinter/linter-spell-latex",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0"
   },
   "bugs": {
-    "url": "https://github.com/yitzchak/linter-spell-latex/issues"
+    "url": "https://github.com/AtomLinter/linter-spell-latex/issues"
   },
   "dependencies": {
     "lodash": "^4.13.0",

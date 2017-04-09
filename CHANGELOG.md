@@ -1,82 +1,82 @@
 # Change Log
 
-## [0.9.0](https://github.com/yitzchak/linter-spell-latex/tree/0.9.0) (2016-09-03)
-[Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.8.0...0.9.0)
+## [0.9.0](https://github.com/AtomLinter/linter-spell-latex/tree/0.9.0) (2016-09-03)
+[Full Changelog](https://github.com/AtomLinter/linter-spell-latex/compare/v0.8.0...0.9.0)
 
 **Implemented enhancements:**
 
-- Implement grammar specific dictionary [\#11](https://github.com/yitzchak/linter-spell-latex/issues/11)
-- Ignore LaTeX key-words [\#10](https://github.com/yitzchak/linter-spell-latex/issues/10)
+- Implement grammar specific dictionary [\#11](https://github.com/AtomLinter/linter-spell-latex/issues/11)
+- Ignore LaTeX key-words [\#10](https://github.com/AtomLinter/linter-spell-latex/issues/10)
 
-## [v0.8.0](https://github.com/yitzchak/linter-spell-latex/tree/v0.8.0) (2016-08-03)
-[Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.7.1...v0.8.0)
+## [v0.8.0](https://github.com/AtomLinter/linter-spell-latex/tree/v0.8.0) (2016-08-03)
+[Full Changelog](https://github.com/AtomLinter/linter-spell-latex/compare/v0.7.1...v0.8.0)
 
 **Implemented enhancements:**
 
-- Spell checking of comments [\#9](https://github.com/yitzchak/linter-spell-latex/issues/9)
+- Spell checking of comments [\#9](https://github.com/AtomLinter/linter-spell-latex/issues/9)
 
-## [v0.7.1](https://github.com/yitzchak/linter-spell-latex/tree/v0.7.1) (2016-08-01)
-[Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.7.0...v0.7.1)
+## [v0.7.1](https://github.com/AtomLinter/linter-spell-latex/tree/v0.7.1) (2016-08-01)
+[Full Changelog](https://github.com/AtomLinter/linter-spell-latex/compare/v0.7.0...v0.7.1)
 
 **Fixed bugs:**
 
-- Don't spell check citation keys [\#8](https://github.com/yitzchak/linter-spell-latex/issues/8)
+- Don't spell check citation keys [\#8](https://github.com/AtomLinter/linter-spell-latex/issues/8)
 
-## [v0.7.0](https://github.com/yitzchak/linter-spell-latex/tree/v0.7.0) (2016-07-28)
-[Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.6.2...v0.7.0)
-
-**Implemented enhancements:**
-
-- Improve checked scopes [\#7](https://github.com/yitzchak/linter-spell-latex/issues/7)
-
-## [v0.6.2](https://github.com/yitzchak/linter-spell-latex/tree/v0.6.2) (2016-07-17)
-[Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.6.1...v0.6.2)
-
-## [v0.6.1](https://github.com/yitzchak/linter-spell-latex/tree/v0.6.1) (2016-07-17)
-[Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.6.0...v0.6.1)
-
-## [v0.6.0](https://github.com/yitzchak/linter-spell-latex/tree/v0.6.0) (2016-07-14)
-[Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.5.0...v0.6.0)
+## [v0.7.0](https://github.com/AtomLinter/linter-spell-latex/tree/v0.7.0) (2016-07-28)
+[Full Changelog](https://github.com/AtomLinter/linter-spell-latex/compare/v0.6.2...v0.7.0)
 
 **Implemented enhancements:**
 
-- Ignore units [\#4](https://github.com/yitzchak/linter-spell-latex/issues/4)
+- Improve checked scopes [\#7](https://github.com/AtomLinter/linter-spell-latex/issues/7)
 
-## [v0.5.0](https://github.com/yitzchak/linter-spell-latex/tree/v0.5.0) (2016-07-03)
-[Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.4.0...v0.5.0)
+## [v0.6.2](https://github.com/AtomLinter/linter-spell-latex/tree/v0.6.2) (2016-07-17)
+[Full Changelog](https://github.com/AtomLinter/linter-spell-latex/compare/v0.6.1...v0.6.2)
+
+## [v0.6.1](https://github.com/AtomLinter/linter-spell-latex/tree/v0.6.1) (2016-07-17)
+[Full Changelog](https://github.com/AtomLinter/linter-spell-latex/compare/v0.6.0...v0.6.1)
+
+## [v0.6.0](https://github.com/AtomLinter/linter-spell-latex/tree/v0.6.0) (2016-07-14)
+[Full Changelog](https://github.com/AtomLinter/linter-spell-latex/compare/v0.5.0...v0.6.0)
 
 **Implemented enhancements:**
 
-- Add BibTex support [\#3](https://github.com/yitzchak/linter-spell-latex/issues/3)
+- Ignore units [\#4](https://github.com/AtomLinter/linter-spell-latex/issues/4)
 
-## [v0.4.0](https://github.com/yitzchak/linter-spell-latex/tree/v0.4.0) (2016-07-01)
-[Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.3.0...v0.4.0)
+## [v0.5.0](https://github.com/AtomLinter/linter-spell-latex/tree/v0.5.0) (2016-07-03)
+[Full Changelog](https://github.com/AtomLinter/linter-spell-latex/compare/v0.4.0...v0.5.0)
 
 **Implemented enhancements:**
 
-- Use scope based exclusion/inclusion [\#5](https://github.com/yitzchak/linter-spell-latex/issues/5)
+- Add BibTex support [\#3](https://github.com/AtomLinter/linter-spell-latex/issues/3)
 
-## [v0.3.0](https://github.com/yitzchak/linter-spell-latex/tree/v0.3.0) (2016-06-30)
-[Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.2.2...v0.3.0)
+## [v0.4.0](https://github.com/AtomLinter/linter-spell-latex/tree/v0.4.0) (2016-07-01)
+[Full Changelog](https://github.com/AtomLinter/linter-spell-latex/compare/v0.3.0...v0.4.0)
 
-## [v0.2.2](https://github.com/yitzchak/linter-spell-latex/tree/v0.2.2) (2016-06-29)
-[Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.2.1...v0.2.2)
+**Implemented enhancements:**
+
+- Use scope based exclusion/inclusion [\#5](https://github.com/AtomLinter/linter-spell-latex/issues/5)
+
+## [v0.3.0](https://github.com/AtomLinter/linter-spell-latex/tree/v0.3.0) (2016-06-30)
+[Full Changelog](https://github.com/AtomLinter/linter-spell-latex/compare/v0.2.2...v0.3.0)
+
+## [v0.2.2](https://github.com/AtomLinter/linter-spell-latex/tree/v0.2.2) (2016-06-29)
+[Full Changelog](https://github.com/AtomLinter/linter-spell-latex/compare/v0.2.1...v0.2.2)
 
 **Fixed bugs:**
 
-- lodash load failure [\#1](https://github.com/yitzchak/linter-spell-latex/issues/1)
+- lodash load failure [\#1](https://github.com/AtomLinter/linter-spell-latex/issues/1)
 
-## [v0.2.1](https://github.com/yitzchak/linter-spell-latex/tree/v0.2.1) (2016-06-29)
-[Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.2.0...v0.2.1)
+## [v0.2.1](https://github.com/AtomLinter/linter-spell-latex/tree/v0.2.1) (2016-06-29)
+[Full Changelog](https://github.com/AtomLinter/linter-spell-latex/compare/v0.2.0...v0.2.1)
 
-## [v0.2.0](https://github.com/yitzchak/linter-spell-latex/tree/v0.2.0) (2016-06-29)
-[Full Changelog](https://github.com/yitzchak/linter-spell-latex/compare/v0.1.0...v0.2.0)
+## [v0.2.0](https://github.com/AtomLinter/linter-spell-latex/tree/v0.2.0) (2016-06-29)
+[Full Changelog](https://github.com/AtomLinter/linter-spell-latex/compare/v0.1.0...v0.2.0)
 
 **Implemented enhancements:**
 
-- Automatic dependency installation [\#2](https://github.com/yitzchak/linter-spell-latex/issues/2)
+- Automatic dependency installation [\#2](https://github.com/AtomLinter/linter-spell-latex/issues/2)
 
-## [v0.1.0](https://github.com/yitzchak/linter-spell-latex/tree/v0.1.0) (2016-06-28)
+## [v0.1.0](https://github.com/AtomLinter/linter-spell-latex/tree/v0.1.0) (2016-06-28)
 
 
 \* *This Change Log was automatically generated by [github_changelog_generator](https://github.com/skywinder/Github-Changelog-Generator)*
