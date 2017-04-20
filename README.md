@@ -21,7 +21,7 @@ and [language-latex](https://atom.io/packages/language-latex).
 
 The package has support for the following TeX Magic comment
 
-*   `%!TeX spellcheck = en-US,en-DE` Select languages
+*   `%!TeX spell_check = en-US,en-DE` Select languages
 
 ## Status
 
