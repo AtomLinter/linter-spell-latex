@@ -32,7 +32,8 @@
   ],
   "activationHooks": [
     "language-latex:grammar-used",
-    "language-tex:grammar-used"
+    "language-tex:grammar-used",
+    "language-latex2e:grammar-used"
   ],
   "standard": {
     "parser": "babel-eslint",
