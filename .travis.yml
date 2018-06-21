@@ -37,3 +37,4 @@ addons:
 branches:
   only:
     - master
+    - /^greenkeeper/.*$/
